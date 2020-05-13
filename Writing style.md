@@ -14,3 +14,11 @@
 ### 三级标题
     - 列表
 ```
+## 标点符号
+- 中文全角（占两个字符）
+- 英文半角（占一个字符）
+- 中英混排，全角。英文整句中标点用半角。
+
+## 参考文献
+1. [Google developer documentation style guide](https://developers.google.com/style/)
+2. [The Elements of Style]()
