@@ -16,3 +16,6 @@
 
 ### 技巧
 - 生成自己的代码片段 snippets
+
+## 命令
+`Get-Command python | fl *`
